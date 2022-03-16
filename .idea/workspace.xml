@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c13f69e9-5085-487d-a10e-29fba9fac4ee" name="Changes" comment="Test 22.3.15">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/JUnit_/JUnit_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise01/AbstractExercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise01/CommonEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise01/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise01/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise02/AA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise02/BB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise02/Template.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/abstract_/Exercise02/Templatetest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/api_/API_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/arrays_/ArraysExercise$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/arrays_/ArraysExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/arrays_/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter13_homework/reverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter13_homework/split_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter13_homework/userRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter14_homework/Homework01/Homework01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter14_homework/Homework01/News.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter14_homework/Homework02/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter14_homework/Homework02/Homework02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/chapter14_homework/Homework03/Homework03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/collection/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/collection/Collection_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/customexception/AgeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/customexception/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/customexception/Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/customexception_/AgeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/customexception_/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/customexception_/Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/debug_/Debugtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/debug_/debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/download_/DownloadClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/download_/DownloadServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/download_/StreamUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/drawcircle_/DrawCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/drawcircle_/Mypanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/enum_/Enumeration01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/enum_/EnumerationExercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/enum_/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/enum_/Week.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/exception_/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/exception_/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/exception_/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/exception_/ClassCastException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/exception_/Exeption01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/exception_/TryCatchExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/Buffered_/BufferedCopy02_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/Buffered_/BufferedCopy_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/FileCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/fileIO_/FileCopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/fileIO_/FileInputStream_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/fileIO_/FileOutputStream_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/homework_/homework01/homework01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/printstream_/PrintStream_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/printstream_/PrintWriter_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/properties_/Properties02_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/properties_/Properties03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/properties_/Properties_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/transformation_/CodeQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/transformation_/InputStreamReader_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/file_/transformation_/OutputStreamWriter_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/DAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/GenericHomework$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/GenericHomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/Homework01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/generic_/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework01/Frock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework01/TestFrock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework05/A$B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework05/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework05/homework05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework06/Boat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework06/Horse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework06/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework06/Vehicles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework06/VehiclesFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework06/homework06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework07/Car$Air.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework07/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework07/homework07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework08/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework08/ID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/homework/homework08/homework08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/houserent/HouseRentApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/houserent/domain/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/houserent/service/HouseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/houserent/utils/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/houserent/view/HouseView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClass02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClass02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClassExercise01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClassExercise01$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClassExercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClassExercise02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/AnonymousInnerClassExercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Bell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Cellphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/IA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/IB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/MemberInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Outer10$Inner10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Outer10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/innerclass_/StaticInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/interface_/Camera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/interface_/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/interface_/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/interface_/Usbinterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/interface_/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/list_/ArraysList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/list_/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/list_/ListExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/list_/ListExercise02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/list_/ListExercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/map/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/map/MapExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/object_/EqualsExercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/object_/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/HashSetExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/HashSetStructure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework01/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework01/HashSetExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework02/Employee02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework02/HashSetExercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework02/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework03/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Homework03/LinkedHashSetExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/set/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/smallChange/OOP/SmallChangeSystemApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/smallChange/OOP/SmallChangeSystemOOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/smallChange/SmallChangeSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/socket_/SocketTCP01Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/socket_/SocketTCP01Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/socket_/SocketTCP02Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/socket_/SocketTCP02Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/socket_/homeworkUseTCP/HomeClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/socket_/homeworkUseTCP/HomeServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/string_/StringAndStringBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/string_/StringMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Associate_Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/CheckingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework13/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework13/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework13/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Homework13/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/SavingsAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/test/my_try/lecturer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/CpuNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/Thread01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/ThreadMethodExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/reflection/apitest/ReflectionAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/reflection/apitest/TestAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/reflection/homework/Homework01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/reflection/homework/PrivateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/reflection/homework02/Homework02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/synchronized_/Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/synchronized_/SellTicket01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/synchronized_/SellTicket02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/synchronized_/SellTicket03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/synchronized_/Synchronized.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/thread_/synchronized_/Withdrawal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/udp_/UDPReceiverA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/udp_/UDPReceiverB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/udp_/homeworkUseUDP/HomeA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/udp_/homeworkUseUDP/HomeB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/upload_/StreamUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/upload_/TCPFileUploadClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/upload_/TCPFileUploadServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/wrapper/Integer01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/算法/用户登陆校验.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Rear-End-main/com/bantanger/算法/翻转字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL/page.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/page.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL安装.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="263HoSSTujLyNnfq9WAxusxF2IL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.thread_.Demo" />
+      <module name="Java-Rear-End-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.thread_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.thread_.reflection.homework.Homework01" />
+      <module name="Java-Rear-End-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.thread_.reflection.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.thread_.reflection.homework02.Homework02" />
+      <module name="Java-Rear-End-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.thread_.reflection.homework02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.thread_.PersonTest" />
+      <module name="Java-Rear-End-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.thread_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework01.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Rear-End-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.thread_.reflection.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.thread_.reflection.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.thread_.reflection.homework.Homework01" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.Homework02" />
+        <item itemvalue="JUnit.Homework01.Test" />
+        <item itemvalue="Application.Homework01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13f69e9-5085-487d-a10e-29fba9fac4ee" name="Changes" comment="" />
+      <created>1646645523935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646645523935</updated>
+      <workItem from="1646645525041" duration="11051000" />
+      <workItem from="1646893099236" duration="3214000" />
+      <workItem from="1646966475972" duration="2172000" />
+      <workItem from="1647138339132" duration="32000" />
+      <workItem from="1647355583875" duration="3120000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test 22.3.7">
+      <created>1646645571468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646645571468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test 22.3.7">
+      <created>1646663467806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646663467806</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test 22.3.8">
+      <created>1646748530419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646748530419</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test 22.3.10">
+      <created>1646893208907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646893208907</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test 22.3.15">
+      <created>1647355608267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647355608267</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Test 22.3.7" />
+    <MESSAGE value="Test 22.3.8" />
+    <MESSAGE value="Test 22.3.10" />
+    <MESSAGE value="Test 22.3.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 22.3.15" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/PersonTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
